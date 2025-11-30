@@ -55,13 +55,13 @@ body {
 }
 
 .img {
-    height: 600px;
-    background: url("images/bg.jpg") center/cover no-repeat;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+     height: 600px;
+     background: url("../images/bg.jpg") center/cover no-repeat;
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
 }
 
 .img #text1 {
@@ -380,7 +380,7 @@ body {
 .img1 {
     height: 270px;
     border-radius: 16px;
-    background-image: url("images/map.png");
+    background-image: url("../images/map.png");
     background-size: cover;
     background-position: center;
 }
